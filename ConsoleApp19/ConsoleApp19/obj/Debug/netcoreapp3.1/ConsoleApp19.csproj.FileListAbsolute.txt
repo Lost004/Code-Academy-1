@@ -1,0 +1,28 @@
+C:\Users\nazimri\source\repos\ConsoleApp19\ConsoleApp19\bin\Debug\netcoreapp3.1\ConsoleApp19.exe
+C:\Users\nazimri\source\repos\ConsoleApp19\ConsoleApp19\bin\Debug\netcoreapp3.1\ConsoleApp19.deps.json
+C:\Users\nazimri\source\repos\ConsoleApp19\ConsoleApp19\bin\Debug\netcoreapp3.1\ConsoleApp19.runtimeconfig.json
+C:\Users\nazimri\source\repos\ConsoleApp19\ConsoleApp19\bin\Debug\netcoreapp3.1\ConsoleApp19.runtimeconfig.dev.json
+C:\Users\nazimri\source\repos\ConsoleApp19\ConsoleApp19\bin\Debug\netcoreapp3.1\ConsoleApp19.dll
+C:\Users\nazimri\source\repos\ConsoleApp19\ConsoleApp19\bin\Debug\netcoreapp3.1\ConsoleApp19.pdb
+C:\Users\nazimri\source\repos\ConsoleApp19\ConsoleApp19\obj\Debug\netcoreapp3.1\ConsoleApp19.csproj.AssemblyReference.cache
+C:\Users\nazimri\source\repos\ConsoleApp19\ConsoleApp19\obj\Debug\netcoreapp3.1\ConsoleApp19.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nazimri\source\repos\ConsoleApp19\ConsoleApp19\obj\Debug\netcoreapp3.1\ConsoleApp19.AssemblyInfoInputs.cache
+C:\Users\nazimri\source\repos\ConsoleApp19\ConsoleApp19\obj\Debug\netcoreapp3.1\ConsoleApp19.AssemblyInfo.cs
+C:\Users\nazimri\source\repos\ConsoleApp19\ConsoleApp19\obj\Debug\netcoreapp3.1\ConsoleApp19.csproj.CoreCompileInputs.cache
+C:\Users\nazimri\source\repos\ConsoleApp19\ConsoleApp19\obj\Debug\netcoreapp3.1\ConsoleApp19.dll
+C:\Users\nazimri\source\repos\ConsoleApp19\ConsoleApp19\obj\Debug\netcoreapp3.1\ConsoleApp19.pdb
+C:\Users\nazimri\source\repos\ConsoleApp19\ConsoleApp19\obj\Debug\netcoreapp3.1\ConsoleApp19.genruntimeconfig.cache
+C:\Users\nazimri\Desktop\Code Academy\ConsoleApp19\ConsoleApp19\bin\Debug\netcoreapp3.1\ConsoleApp19.exe
+C:\Users\nazimri\Desktop\Code Academy\ConsoleApp19\ConsoleApp19\bin\Debug\netcoreapp3.1\ConsoleApp19.deps.json
+C:\Users\nazimri\Desktop\Code Academy\ConsoleApp19\ConsoleApp19\bin\Debug\netcoreapp3.1\ConsoleApp19.runtimeconfig.json
+C:\Users\nazimri\Desktop\Code Academy\ConsoleApp19\ConsoleApp19\bin\Debug\netcoreapp3.1\ConsoleApp19.runtimeconfig.dev.json
+C:\Users\nazimri\Desktop\Code Academy\ConsoleApp19\ConsoleApp19\bin\Debug\netcoreapp3.1\ConsoleApp19.dll
+C:\Users\nazimri\Desktop\Code Academy\ConsoleApp19\ConsoleApp19\bin\Debug\netcoreapp3.1\ConsoleApp19.pdb
+C:\Users\nazimri\Desktop\Code Academy\ConsoleApp19\ConsoleApp19\obj\Debug\netcoreapp3.1\ConsoleApp19.csproj.AssemblyReference.cache
+C:\Users\nazimri\Desktop\Code Academy\ConsoleApp19\ConsoleApp19\obj\Debug\netcoreapp3.1\ConsoleApp19.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nazimri\Desktop\Code Academy\ConsoleApp19\ConsoleApp19\obj\Debug\netcoreapp3.1\ConsoleApp19.AssemblyInfoInputs.cache
+C:\Users\nazimri\Desktop\Code Academy\ConsoleApp19\ConsoleApp19\obj\Debug\netcoreapp3.1\ConsoleApp19.AssemblyInfo.cs
+C:\Users\nazimri\Desktop\Code Academy\ConsoleApp19\ConsoleApp19\obj\Debug\netcoreapp3.1\ConsoleApp19.csproj.CoreCompileInputs.cache
+C:\Users\nazimri\Desktop\Code Academy\ConsoleApp19\ConsoleApp19\obj\Debug\netcoreapp3.1\ConsoleApp19.dll
+C:\Users\nazimri\Desktop\Code Academy\ConsoleApp19\ConsoleApp19\obj\Debug\netcoreapp3.1\ConsoleApp19.pdb
+C:\Users\nazimri\Desktop\Code Academy\ConsoleApp19\ConsoleApp19\obj\Debug\netcoreapp3.1\ConsoleApp19.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\nazimri\source\repos\ders\ders\obj\Debug\netcoreapp3.1\ders.csproj.AssemblyReference.cache
+C:\Users\nazimri\source\repos\ders\ders\obj\Debug\netcoreapp3.1\ders.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nazimri\source\repos\ders\ders\obj\Debug\netcoreapp3.1\ders.AssemblyInfoInputs.cache
+C:\Users\nazimri\source\repos\ders\ders\obj\Debug\netcoreapp3.1\ders.AssemblyInfo.cs
+C:\Users\nazimri\source\repos\ders\ders\obj\Debug\netcoreapp3.1\ders.csproj.CoreCompileInputs.cache
+C:\Users\nazimri\source\repos\ders\ders\bin\Debug\netcoreapp3.1\ders.exe
+C:\Users\nazimri\source\repos\ders\ders\bin\Debug\netcoreapp3.1\ders.deps.json
+C:\Users\nazimri\source\repos\ders\ders\bin\Debug\netcoreapp3.1\ders.runtimeconfig.json
+C:\Users\nazimri\source\repos\ders\ders\bin\Debug\netcoreapp3.1\ders.runtimeconfig.dev.json
+C:\Users\nazimri\source\repos\ders\ders\bin\Debug\netcoreapp3.1\ders.dll
+C:\Users\nazimri\source\repos\ders\ders\bin\Debug\netcoreapp3.1\ders.pdb
+C:\Users\nazimri\source\repos\ders\ders\obj\Debug\netcoreapp3.1\ders.dll
+C:\Users\nazimri\source\repos\ders\ders\obj\Debug\netcoreapp3.1\ders.pdb
+C:\Users\nazimri\source\repos\ders\ders\obj\Debug\netcoreapp3.1\ders.genruntimeconfig.cache
